@@ -11,8 +11,10 @@
   "author": "Hernando Guzman",
   "license": "MIT",
   "dependencies": {
+    "@aragon/connect-thegraph": "^0.7.0",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "graphql-tag": "^2.11.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
