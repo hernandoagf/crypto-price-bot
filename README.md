@@ -30,5 +30,6 @@ variables found in the `.env.sample` file:
 
 If you want your bot to display on top of all other users, create a role like
 `Price bot` with limited permissions and put it on top of all other roles.
+
 **Note:** make sure to give it the `Change nickname` permission, so it can
 update its nickname.
